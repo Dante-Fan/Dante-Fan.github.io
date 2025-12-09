@@ -2,6 +2,11 @@
 
 React + Vite app that estimates Dante transmit/receive flow usage for unicast and multicast routes.
 
+This is a vibe coded project with minimal editing. The published Github pages can be found at
+`https://dante-fan.github.io/`
+
+The process below could be followed if you want to create your own repo.
+
 ## Local dev
 
 ```bash
